@@ -1,0 +1,10 @@
+{
+  "database": {
+    "host": "localhost:3306",
+    "timeout": 30000,
+    "username": "root",
+    "password": "admin",
+    "database": "pad_oba_9_live",
+    "connectionLimit": 10
+  }
+}

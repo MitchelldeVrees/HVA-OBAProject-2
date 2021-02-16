@@ -1,0 +1,58 @@
+<!-- Header -->
+<header class="masthead d-flex">
+    <div class="container text-center my-auto">
+        <h1 class="mb-1">Welkom bij OBA lenen</h1>
+        <h3 class="mb-5">
+            <em>Leen nu je boeken via de app</em>
+        </h3>
+        <!-- Button HTML (to Trigger Modal) -->
+        <div class="text-center">
+            <a class="btn btn-primary btn-xl trigger-btn" data-toggle="modal" href="#myModal">Inloggen</a>
+        </div>
+        <!-- Modal HTML -->
+        <div id="myModal" class="modal fade">
+            <div class="modal-dialog modal-login">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Member Login</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <form class="login-form">
+                            <div class="form-group">
+                                <i class="fa fa-user"></i>
+                                <h6 style="text-align: left">Barcode lenerskaart</h6>
+                                <input type="text" name="username" class="username form-control"
+                                       placeholder="Vul barcode lenerskaart in (22000...)" required="required">
+                            </div>
+                            <div class="form-group">
+                                <i class="fa fa-lock"></i>
+                                <h6 style="text-align: left">Pincode (geboortedatum)</h6>
+                                <input type="password" name="password" class="password form-control"
+                                       placeholder="Vul pincode in (ddmmjjjj)" required="required">
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" class="Loginbtn btn btn-primary btn-block btn-lg" value="Login">
+                            </div>
+                            <div class="error mb-3 text-danger"></div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- einde modal -->
+    </div>
+</header>
+
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for this template -->
+<script src="js/stylish-portfolio.min.js"></script>
+

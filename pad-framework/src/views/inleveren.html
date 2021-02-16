@@ -1,0 +1,31 @@
+<div class="container">
+    <script>
+        function inleveren(element) {
+            app.loadController(CONTROLLER_INLEVERENSCANNER, element.value);
+        }
+
+        function inleverenPagina(element) {
+            app.loadController(CONTROLLER_INLEVEREN, element.value);
+        }
+
+        function boete(element) {
+            app.loadController(CONTROLLER_BOETE, element.value);
+        }
+    </script>
+    <div class="col-md-6 mt-5 text-large "> Boeken inleveren:</div>
+
+    <div class="container my-4">
+        <div class="grid">
+            <div id="card-index">
+                <template>
+
+                    <h5 class="card-title inlevertitle">  </h5>
+                    <p class="inlevertext" style="white-space: pre-line"></p>
+                    <p id="afbetalen" class="afbetalen"></p>
+                    <button id="inleverButton" class="btn btn-primary inleverButton" style="margin-bottom: 20px"></button>
+                </template>
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,133 @@
+[33m[nodemon] 2.0.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching dir(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node server.js`[39m
+{
+  host: 'db.hbo-ict.cloud',
+  timeout: 30000,
+  username: 'pad_oba_9',
+  password: 'zwzXDdUh8lXJhPuW',
+  database: 'pad_oba_9_dev'
+}
+PAD Framework app listening on port 3000 for environment LOCAL!
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 1.996 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 440.663 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.205 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 466.771 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.171 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 431.341 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.178 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 484.383 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.156 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 457.566 ms
+::1 - OPTIONS /oba/search?id=w HTTP/1.1 200 2 - 0.180 ms
+::1 - GET /oba/search?id=w HTTP/1.1 200 32628 - 568.570 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.161 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 438.495 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.211 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 442.993 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.257 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 547.961 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.157 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.132 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.171 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.134 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 406.596 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 342.777 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.139 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.134 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 373.637 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.128 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 380.193 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 351.963 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 344.772 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 345.246 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.140 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 466.245 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.218 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 408.147 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.198 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 474.387 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.141 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 699.334 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.170 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 405.535 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.205 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 430.746 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.145 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 547.881 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.138 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 432.315 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.139 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 521.925 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.148 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 442.333 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.137 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 371.489 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.142 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 486.732 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.136 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 489.877 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.130 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.136 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 430.544 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.165 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 415.757 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 417.635 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.124 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 422.697 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.142 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 717.276 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.148 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 543.855 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.145 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 477.876 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.195 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 446.358 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.150 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 510.480 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.143 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 457.307 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.179 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 428.914 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.145 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 468.449 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.141 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 479.818 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.149 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 504.698 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.139 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 377.917 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.141 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 573.851 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.139 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 535.377 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.179 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 535.765 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.125 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 515.077 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.186 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 579.352 ms
+::1 - OPTIONS /room_example HTTP/1.1 200 2 - 0.186 ms
+::1 - POST /room_example HTTP/1.1 200 27 - 148.932 ms
+::1 - OPTIONS /room_example HTTP/1.1 200 2 - 0.215 ms
+::1 - POST /room_example HTTP/1.1 200 27 - 29.223 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.204 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 487.654 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.140 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 559.264 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.135 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 454.367 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.178 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 507.526 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.129 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 566.551 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.138 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 549.126 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.147 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 710.757 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.177 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 557.709 ms
+::1 - OPTIONS /oba/search?id=mooi HTTP/1.1 200 2 - 0.187 ms
+::1 - GET /oba/search?id=mooi HTTP/1.1 200 30563 - 494.205 ms

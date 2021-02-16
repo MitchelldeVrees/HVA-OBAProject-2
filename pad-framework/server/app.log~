@@ -1,0 +1,13 @@
+[33m[nodemon] 2.0.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching dir(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node server.js`[39m
+{
+  host: 'db.hbo-ict.cloud',
+  timeout: 30000,
+  username: 'pad_oba_9',
+  password: 'zwzXDdUh8lXJhPuW',
+  database: 'pad_oba_9_dev'
+}
+PAD Framework app listening on port 3000 for environment LOCAL!
